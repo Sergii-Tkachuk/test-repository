@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-world
-=======
-hello
->>>>>>> ref1
+hello world 
+
